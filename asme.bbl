@@ -1,0 +1,266 @@
+\begin{thebibliography}{10}
+
+\bibitem{WangD}
+Dawei~Wang, Jianqiang~Yi, D.~Z., 2007.
+\newblock ``Teleoperation system of the internet-based omni-directional mobile
+  robot with a mounted manipulator''.
+\newblock In Proceedings of the IEEE International Conference on Mechatronics
+  and Automation, IEEE, pp.~1799--1804.
+
+\bibitem{Diy}
+Chui, C.~K., Ong, J. S.~K., Lian, Z.~Y., Wang, Z., and Teo, J., 2006.
+\newblock ``Dhaptics in computer mediated simulation: Training in
+  vertebroplasty surgery''.
+\newblock In Simulation and Gaming, pp.~438--451.
+
+\bibitem{Diy2}
+Hvilshj, M., and Bgh, S., 2011.
+\newblock ``Little helper - an autonomous industrial mobile manipulator
+  concept''.
+\newblock In International Journal of Advanced Robotic Systems.
+
+\bibitem{kron}
+Kron, A., Schmidt, G., Petzold, G., Zah, B., M., I., Hinterseer, P., and
+  Steinbach, E., 2004.
+\newblock ``Disposal of explosive ordinances by use of a bimanual haptic
+  telepresence system''.
+\newblock In International Conference on Robotics and Automation, IEEE.
+
+\bibitem{j}
+Hirose, S., and Amano, S., 1993.
+\newblock ``The vuton: High payload high efficiency holonomic omni-directional
+  vehicle''.
+\newblock In 6th International Symposium on Robotics Research.
+
+\bibitem{Palankar}
+Palankar M.; De Laurentis K.J.; Alqasemi R.; Veras E.; Dubey R.;~Arbel, Y.
+  D.~E., 2009.
+\newblock ``Control of a 9-dof wheelchair-mounted robotic arm system using a
+  p300 brain computer interface: Initial experiments''.
+\newblock In 2008. ROBIO 2008. IEEE International Conference on Robotics and
+  Biomimetics, IEEE, pp.~348--353.
+
+\bibitem{melch}
+Melchiorri, C., 2006.
+\newblock ``Robotic telemanipulation: An introduction''.
+\newblock In Winter School on Telesurgery, EURON.
+
+\bibitem{Diy3}
+Gunn, C., and Mettenmeyer, A., 2002.
+\newblock ``Virtual surgery across the world''.
+\newblock In CSIRO Media Release.
+
+\bibitem{yasuaki}
+Ise, Y., and Murakami, T., 2004.
+\newblock ``An approach to a haptics system control by mobile manipulator''.
+\newblock In International Workshop on Advanced Motion Control, IEEE,
+  pp.~239--242.
+
+\bibitem{yamanaka}
+Yamanaka, E., Murakami, T., and Ohnishi, K., 2002.
+\newblock ``{Motion control of mobile manipulator for human interaction}''.
+\newblock {\em 28th Annual Conference of the Industrial Electronics Society.
+  IECON 02}, pp.~2785--2790.
+
+\bibitem{equip}
+Xin, L., et~al., 2012.
+\newblock ``Real-time obstacle avoidance for telerobotic systems based on
+  equipotential surface''.
+\newblock In International Journal of Advanced Robotic Systems, p.~9(71).
+
+\bibitem{lim}
+Lim, D., 1993.
+\newblock ``{Configuration Control of a Mobile Dexterous Robot: Real-Time
+  Implementation and Experimentation}''.
+\newblock {\em Control}, pp.~601--618.
+
+\bibitem{shin}
+Shin, D.~H., Hamner, B.~S., Singh, S., and Hwangbo, M., 2003.
+\newblock ``Motion planning for a mobile manipulator with imprecise
+  locomotion''.
+\newblock In International Conference on Intelligent Robots and Systems,
+  IEEE/RSJ.
+
+\bibitem{chung}
+Chung, J.~H., Velinsky, S.~A., and Hess, R.~A., 1998.
+\newblock ``{Interaction Control of a Redundant Mobile Manipulator}''.
+\newblock {\em The International Journal of Robotics Research}, pp.~1302--1309.
+
+\bibitem{nath}
+Nath, N., Tatlicioglu, E., and Dawson, D.~M., 2009.
+\newblock ``{Teleoperation with kinematically redundant robot manipulators with
+  sub-task objectives}''.
+\newblock {\em Robotica, {\bf 27}}(07), March, pp.~1027--1038.
+
+\bibitem{a}
+Seraji, H., 1989.
+\newblock ``Configuration control of redundant manipulators: Theory and
+  implementation''.
+\newblock In Transactions on Robotics and Automation, IEEE, pp.~472--490.
+
+\bibitem{pin}
+Pin, F.~G., and Culioli, J.~C., 1992.
+\newblock ``Optimal positioning of combine mobila platform manipulator systems
+  for material handling tasks''.
+\newblock In Journal of Intelligent and Robotic Systems, pp.~165--182.
+
+\bibitem{dir7}
+Whitney, D.~E., 1969.
+\newblock ``Resolved motion rate control of manipulators and human protheses''.
+\newblock {\em IEEE Transactions Man-Machine Systems}, pp.~47--53.
+
+\bibitem{dir10}
+Shamir, T., and Yomdin, Y., 1983.
+\newblock ``Repeatability of redundant manipulators: Mathematical solution of
+  the problem''.
+\newblock {\em IEEE Transactions on Automation and Control}, pp.~1004--1008.
+
+\bibitem{dir12}
+Sciavicco, L., and Siciliano, B., 1988.
+\newblock ``A solution algorithm to the inverse kinematic problem for redundant
+  manipulators''.
+\newblock {\em IEEE Journal of Robotics Automation}, pp.~403--410.
+
+\bibitem{dir18}
+Sciavicco, L., and Siciliano, B., 1987.
+\newblock ``Solving the inverse kinematic problem for robotic manipulators''.
+\newblock {\em Proceedings of the 6th CISM-IFToMM Symposium Theory and Practice
+  of Robots and Manipulators}, pp.~107--114.
+
+\bibitem{dir19}
+Baillieul, J., 1985.
+\newblock ``Kinematic programming alternatives for redundant manipulators''.
+\newblock {\em Proc. 1985 IEEE International Conference on Robotics and
+  Automation}, pp.~722--728.
+
+\bibitem{dir22}
+Baillieul, J., 1986.
+\newblock ``Avoiding obstacles and resolving kinematic redundancy''.
+\newblock {\em Proc. 1986 IEEE International Conference on Robotics and
+  Automation}, pp.~1698--1704.
+
+\bibitem{dir21}
+Y.~Nakamur, H.~H., and Yoshikawa, T., 1987.
+\newblock ``Task-priority based redundancy control of robot manipulators''.
+\newblock {\em International Journal of Robotics Research}, pp.~3--15.
+
+\bibitem{dir9}
+Klein, C.~A., and Huang, C.~H., 1983.
+\newblock ``Review of pseudoinverse control for use with kinematically
+  redundant manipulators''.
+\newblock {\em IEEE Transactions on Systems Man Cybernet.}, pp.~245--250.
+
+\bibitem{lag}
+P, X., et~al., 2012.
+\newblock ``Operation modes and control schemes for a telerobot with time
+  delay''.
+\newblock In International Journal of Advanced Robotic Systems, p.~9(57).
+
+\bibitem{lagfix}
+Li, H., et~al., 2007.
+\newblock ``Virtual-environment modeling and correction for force-reflecting
+  teleoperation with time delay''.
+\newblock In IEEE Transactions on Industrial Electronics, pp.~1227--1233.
+
+\bibitem{gao}
+Ghao, C., Zhang, M., and Sun, L., 2006.
+\newblock ``Motion planning and cooordinated control for mobile manipulators''.
+\newblock In 9th International Conference on Control, Automation, Robotics and
+  Vision.
+
+\bibitem{goldenberg}
+Lin, S., and Goldenberg, A.~A., 2001.
+\newblock ``Neural-network control of mobile manipulators''.
+\newblock In Transactions on Neural Networks, IEEE, pp.~1121--1133.
+
+\bibitem{zalzala}
+Chen, M.~W., and Zalzala, 1998.
+\newblock ``Neural network based motion control and applications to
+  non-holonomic mobile manipulators''.
+\newblock In Topics In Artificial Intelligence, PRICAI, pp.~353--364.
+
+\bibitem{soylu}
+Soylu, S., Firmani, F., Buckham, B., and Podhorodeski, R.~P., 2010.
+\newblock ``Comprehensive underwater vehicle-manipulator system
+  teleoperation''.
+\newblock {\em Conference Piublishing}, pp.~1--8.
+
+\bibitem{hung}
+Hung, N., Kim, D., Kim, H., and Kim, S., 2009.
+\newblock ``{Tracking Controller Design of Omnidirectional Mobile Manipulator
+  System}''.
+\newblock pp.~539--544.
+
+\bibitem{keigo}
+Watanabe, K., Sato, K., Izumi, K., and Kunitake, Y., 2000.
+\newblock ``{Analysis and Control for an Omnidirectional Mobile Manipulator}''.
+\newblock {\em Journal of Intelligent and Robotic Systems}, pp.~3--20.
+
+\bibitem{takubo}
+Takubo, T., Arai, H., , and Tanie, K., 2002.
+\newblock ``Control of mobile manipulator using a virtual impedance wall''.
+
+\bibitem{frejek}
+Frejek, M., and Nokleby, S.~B., 2013.
+\newblock ``A methodology for tele-operating mobile manipulators with an
+  emphasis on operator ease of use''.
+\newblock In Robotica, Vol. 31, No. 3, pp.~331--344.
+
+\bibitem{stress}
+Lizarralde, F., and Wen, J.~T., 1995.
+\newblock ``Quaternion-based coordinated control of a subsea mobile
+  manipulatior with only position measurements''.
+\newblock In 34th Conference on Decision and Control.
+
+\bibitem{w3}
+Wrock, M., and Nokleby, S., 2011.
+\newblock ``Haptic teleoperation of a manipulator using virtual fixtures and
+  hybrid position-velocity control''.
+\newblock {\em World Congress in Mechanism and Machine Science}.
+
+\bibitem{w2}
+Wrock, M.~R., and Nokleby, S.~B., 2011.
+\newblock ``Command strategies for tele-operation of mobile-manipulator systems
+  via a haptic input device''.
+\newblock In ASME 2011 International Design Engineering Technical Conferences
+  and Computers and Information in Engineering Conference, ASME/IEEE,
+  pp.~623--630.
+
+\bibitem{w1}
+Wrock, M., and Nokleby, S., 2011.
+\newblock ``Decoupled teleoperation of a holonomic mobile-manipulator system
+  using automatic switching''.
+\newblock In Electrical and Computer Engineering (CCECE), 2011 24th Canadian
+  Conference on, pp.~001164--001168.
+
+\bibitem{w4}
+Wrock, M., and Nokleby, S., 2012.
+\newblock ``Virtual fixtures and automatic mode switching for teleoperation
+  tasks''.
+\newblock {\em ASME 2012 International Design Engineering Technical Conferences
+  and Computers and Information in Engineering Conference}, pp.~745--751.
+
+\bibitem{fark}
+Farkhatdinov, I., 2008.
+\newblock ``{Switching of control signals in teleoperation systems:
+  Formalization and application}''.
+\newblock {\em 2008 IEEE/ASME International Conference on Advanced Intelligent
+  Mechatronics}, pp.~353--358.
+
+\bibitem{Last}
+Xiaomin, L., et~al., 2013.
+\newblock ``Spatial motion constraints using flexible virtual fixtures''.
+\newblock In Applied Mechanics and Materials, p.~Vol. 427.
+
+\bibitem{bemis}
+Bemis, S., and Nokleby, S.~B., 2008.
+\newblock ``Design of an omnibot autonomous vehicle''.
+\newblock {\em Proceedings of the 2008 CSME Forum}.
+
+\bibitem{sasha}
+Ginzburg, S., and Nokleby, S.~B., 2013.
+\newblock ``Indoor localization of an omni-directional wheeled mobile robot''.
+\newblock {\em Transactions of the Canadian Society for Mechanical Engineering,
+  {\bf 36}}(4), pp.~1043--1056.
+
+\end{thebibliography}

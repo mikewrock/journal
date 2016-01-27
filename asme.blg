@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: asme.aux
+The style file: asmems4.bst
+Database file #1: asme2e.bib
+Warning--empty journal in hung
+Warning--empty journal in takubo
+You've used 44 entries,
+            1984 wiz_defined-function locations,
+            730 strings with 10560 characters,
+and the built_in function-call counts, 12837 in all, are:
+= -- 1223
+> -- 347
+< -- 0
++ -- 145
+- -- 101
+* -- 687
+:= -- 1683
+add.period$ -- 131
+call.type$ -- 44
+change.case$ -- 44
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 751
+empty$ -- 1309
+format.name$ -- 101
+if$ -- 3166
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 44
+newline$ -- 222
+num.names$ -- 44
+pop$ -- 232
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 519
+stack$ -- 0
+substring$ -- 958
+swap$ -- 349
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 116
+width$ -- 46
+write$ -- 482
+(There were 2 warnings)

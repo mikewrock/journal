@@ -1,0 +1,706 @@
+
+@article{sasha,
+	author	=	"Ginzburg, S. and Nokleby, S. B.",
+	title	=	"Indoor Localization of an Omni-Directional Wheeled Mobile Robot",
+	journal =   "Transactions of the Canadian Society for Mechanical Engineering",
+	volume  =	"36",
+	number	=	"4",
+	pages   =   "1043--1056",
+	year	=	"2013"
+}
+@article{bemis,
+	author	=	"Bemis, S. and Nokleby, S. B.",
+	title	=	"Design of an Omnibot Autonomous Vehicle",
+	journal =   "Proceedings of the 2008 CSME Forum",
+	 organization = "CSME",
+	year	=	"2008"
+}
+@article{Borenstein,
+	author	=	"Borenstein, J. and Everett, H. R. and Feng, L. and Wehe, D.",
+	title	=	"{Mobile Robot Positioning: Sensors and Techniques}",
+	journal =   "Journal of Robotic Systems",
+	volume  =	"14",
+	number	=	"4",
+	pages   =   "231--249",
+	year	=	"1997 "
+}
+@InProceedings{WangD,
+  author = 	 "Dawei Wang, Jianqiang Yi, Dongbin Zhao",
+  title = "Teleoperation System of the Internet-Based Omni-Directional Mobile Robot with A Mounted Manipulator",
+  booktitle =        "Proceedings of the IEEE International Conference on Mechatronics and Automation",
+  organization = "IEEE",
+  year = 	 "2007",
+  pages = 	 "1799-1804"
+}
+@InProceedings{Palankar,
+  author = 	 "Palankar M.; De Laurentis K.J.; Alqasemi R.; Veras E.; Dubey R.; Arbel, Y.; Donchin E.",
+  title = "Control of a 9-DoF Wheelchair-mounted robotic arm system using a P300 Brain Computer Interface: Initial experiments",
+  booktitle =        "2008. ROBIO 2008. IEEE International Conference on Robotics and Biomimetics",
+  organization = "IEEE",
+  year = 	 "2009",
+  pages = 	 "348-353"
+}
+@mastersthesis{Negenborn,
+  	 author =  "Negenborn, R.",
+     title =  "{Robot Localization and Kalman Filters}",
+     year= "2003 ",
+     school =  "Utrecht University",    
+	 	 month =  "September"
+}
+
+@techreport{Singhal,
+	author = "Singhal, A.",
+	title = "{Issues in Autonomous Mobile Robot Navigation}",
+	year = "1997",
+	institution = "University of Rochester"
+}
+
+@InProceedings{Cox,
+  author = 	 "Cox, I. J.", 
+  title = "{Blanche- An Experiment in Guidance and Navigation of an Autonomous Robot Vehicle}",
+  booktitle = "IEEE Transactions on Robotics and Automation",
+  organization = "IEEE",
+  volume = "7",
+  number = "2",
+  year = 	 "1991",
+  pages = 	 "193-204"
+}
+
+@InProceedings{Durrant-Whyte,
+  author = 	 "Durrant-Whyte, H. and Bailey, T.", 
+  title = "{Simultaneous Localization and Mapping: Part I}",
+  booktitle = "IEEE Robotics and Automation Magazine",
+  organization = "IEEE",
+  month = "June",
+  year = 	 "2006",
+  pages = 	 "99-108"
+}
+
+@InProceedings{Sasiadek,
+  author = 	 "Sasiadek, J. Z. and Monjazeb, A. and Necsulescu, D.", 
+  title = "{Navigation of an autonomous mobile robot using EKF-SLAM and FastSLAM}",
+  booktitle = "16th Mediterranean Conference on Control and Automation",
+  month = "June",
+  year = 	 "2008",
+  pages = 	 "517-522"
+}
+
+@InProceedings{Gamini,
+  author = 	 "Gamini Dissanayake, M. W. M. and Newman, P. and Clark, S. and Durrant-Whyte, H. F. and Csorba, M.", 
+  title = "{A Solution to the Simultaneous Localization and Map Building (SLAM) Problem}",
+  booktitle = "IEEE Transactions on Robotics and Automation",
+  organization = "IEEE",
+  volume = "17",
+  number = "3",
+  month = "June",
+  year = 	 "2001",
+  pages = 	 "229-241"
+}
+
+@phdThesis{Priyantha,
+  author = 	 "Priyantha, N.",
+  title = "{The Cricket Indoor Location System}",
+  year =  "2005 ",
+  school = "Massachussets Institute of Technology",
+  month = 	 "June"
+}
+
+@mastersthesis{Wang,
+  	 author =  "Wang, K.",
+     title =  "{An Ultrasonic Compass for Context-Aware Mobile Applications}",
+     year= "2004 ",
+     school =  "Massachussets Institute of Technology",    
+	 	 month =  "June"
+}
+
+@InProceedings{Harter,
+  author = 	 "Harter, A. and Hopper, A. and Steggles, P. and Ward, A. and Webster, P.", 
+  title = "{The Anatomy of a Context-Aware Application}",
+  booktitle = "Proceedings of the 5th annual ACM/IEEE international conference on Mobile computing and networking",
+  organization = "ACM/IEEE",
+  year = 	 "1999",
+  pages = 	 "59-68"
+}
+
+@InProceedings{Want,
+  author = 	 "Want, R. and Hopper, A. and Falcao, V. and Gibbons, J.",
+  title = "{The Active Badge Location System}",
+  booktitle = "ACM Transactions on Information Systems",
+  volume = "10 no. 1",
+  year = 	 "1992",
+  pages = "91-102"
+}
+
+@InProceedings{Bahl,
+  author = 	 "Bahl, P. and Padmanabhan, V.",
+  title = "{RADAR: An In-Building RF-based User Location and Tracking System}",
+  booktitle = "Proc. IEEE INFOCOM",
+  volume = "2",
+  year = 	 "2000",
+  pages = "775-784"
+}
+@InProceedings{farkhat,
+  author = 	 "I. Farkhatdinov and J-H. Ryu and J. Poduraev",
+  title =        "Control Strategies and Feedback Information in Mobile Robot Teleoperation",
+  booktitle = "Proceedings of the 17th World Congress",
+  organization = "The international Federation of Automatic Control",
+  year = 	 "2008",
+  pages = 	 "14681-14686"
+}
+@InProceedings{ginzburg,
+  author = 	 "S. Ginzburg and F. Frankenberg and S. Nokleby",
+  title =        "Design and Implementation of an Indoor Localizaion System for the Omnibot Omni-Directional Platform",
+  booktitle = "Transactions of the Canadian Society for Mechanical Engineering",
+  organization = "CSME",
+  year = 	 "2009",
+  pages = 	 "715-729"
+}
+
+@article{takubo,
+  author = 	 "T. Takubo and H. Arai and and K. Tanie",
+  title =        "Control of Mobile Manipulator using a Virtual Impedance Wall",
+  booktitle = "International Conference on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "2002",
+}
+@InProceedings{shin,
+  author = 	 "D. H. Shin and B. S. Hamner and S. Singh and M. Hwangbo",
+  title =        "Motion Planning for a Mobile Manipulator With Imprecise Locomotion",
+  booktitle = "International Conference on Intelligent Robots and Systems",
+  organization = "IEEE/RSJ",
+  year = 	 "2003",
+}
+@article{Chen2006,
+author = {Y. Chen and L. Liu and M. Zhang and H. Rong},
+doi = {10.1109/WCICA.2006.1713748},
+file = {:G$\backslash$:/Papers/Study on Coordinated Control.pdf:pdf},
+isbn = {1-4244-0332-4},
+journal = {2006 6th World Congress on Intelligent Control and Automation},
+number = {2003},
+pages = {9037--9041},
+publisher = {Ieee},
+title = {{Study on Coordinated Control and Hardware System of a Mobile Manipulator}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1713748},
+year = {2006}
+}
+@article{chung,
+author = {J. H. Chung and S. A. Velinsky and R. A. Hess},
+doi = {10.1177/027836499801701203},
+file = {:G$\backslash$:/Papers/interaction control of a redundant mobile manipulator.pdf:pdf},
+issn = {0278-3649},
+journal = {The International Journal of Robotics Research},
+pages = {1302--1309},
+title = {{Interaction Control of a Redundant Mobile Manipulator}},
+url = {http://ijr.sagepub.com/cgi/doi/10.1177/027836499801701203},
+year = {1998}
+}
+@article{cui,
+author = {Z. Cui and P. Cao and Y. Shao and D. Qian and X. Wang},
+doi = {10.1109/ICAL.2009.5262911},
+file = {:G$\backslash$:/Papers/Trajectory planning for a redundant mobile manipulator using avoidance manipulabilit.pdf:pdf},
+isbn = {978-1-4244-4794-7},
+journal = {2009 IEEE International Conference on Automation and Logistics},
+pages = {283--288},
+publisher = {Ieee},
+title = {{Trajectory planning for a redundant mobile manipulator using avoidance manipulability}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5262911},
+year = {2009}
+}
+@article{cardenas,
+author = {A. Cardenas and B. Goodwine and S. Skaar and M. Seelinger},
+doi = {10.1177/02783649030229001},
+file = {:G$\backslash$:/Papers/Vision-Based Control of a Mobile Base and On-Board Arm.pdf:pdf},
+issn = {0278-3649},
+journal = {The International Journal of Robotics Research},
+keywords = {camera space manipulation,chine vision,kalman filter,ma-,mobile manipulators,mobile robots},
+pages = {677--698},
+title = {{Vision-Based Control of a Mobile Base and On-Board Arm}},
+url = {http://ijr.sagepub.com/cgi/doi/10.1177/02783649030229001},
+year = {2003}
+}
+@article{fark,
+author = {I. Farkhatdinov},
+doi = {10.1109/AIM.2008.4601686},
+file = {:G$\backslash$:/Papers/Switching of control signals in teleoperation systems formalization and application.pdf:pdf},
+isbn = {978-1-4244-2494-8},
+journal = {2008 IEEE/ASME International Conference on Advanced Intelligent Mechatronics},
+pages = {353--358},
+publisher = {Ieee},
+title = {{Switching of control signals in teleoperation systems: Formalization and application}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4601686},
+year = {2008}
+}
+@article{holmberg,
+author = {R. Holmberg},
+doi = {10.1177/02783640022067977},
+file = {:G$\backslash$:/Papers/Development and Control of a Holonomic Mobile Robot.pdf:pdf},
+issn = {0278-3649},
+journal = {The International Journal of Robotics Research},
+pages = {1066--1074},
+title = {{Development and Control of a Holonomic Mobile Robot for Mobile Manipulation Tasks}},
+url = {http://ijr.sagepub.com/cgi/doi/10.1177/02783640022067977},
+year = {2000}
+}
+@article{hung,
+author = {N. Hung and D. Kim and H. Kim and S. Kim},
+file = {:G$\backslash$:/Papers/Tracking controller design of omnidirectional mobile manipulator system.pdf:pdf},
+keywords = {distributed control method,kinematic controller,lyapunov function candidate,manipulator,omms,omnidirectional mobile manipulator system,omnidirectional mobile platform,omp,sliding mode controller},
+pages = {539--544},
+title = {{Tracking Controller Design of Omnidirectional Mobile Manipulator System}},
+year = {2009}
+}
+@article{lim,
+author = {D. Lim},
+file = {:G$\backslash$:/Papers/Configuration Control of a Mobile Dexterous Robot RealTime Implementation and Experimentation.pdf:pdf},
+journal = {Control},
+pages = {601--618},
+title = {{Configuration Control of a Mobile Dexterous Robot: Real-Time Implementation and Experimentation}},
+year = {1993}
+}
+@article{Poduraev2008,
+author = {Poduraev and I. Farkhatdinov and J. Ryu},
+file = {:G$\backslash$:/Papers/Control strategies and feedback information in mobile robot teleoperation.pdf:pdf},
+journal = {Control},
+pages = {14681--14686},
+title = {{Control Strategies and Feedback Information in Mobile Robot Teleoperation}},
+year = {2008}
+}
+@article{keigo,
+author = {K. Watanabe and K. Sato and K. Izumi and Y. Kunitake},
+file = {:G$\backslash$:/Papers/Analysis and control for an omnidirectional mobile manipulator.pdf:pdf},
+journal = {Journal of Intelligent and Robotic Systems},
+keywords = {com-,mobile manipulator,mode-based control,omnidirectionality,puted torque control,resolved acceleration control,six-degree-of-freedom,trajectory control},
+pages = {3--20},
+title = {{Analysis and Control for an Omnidirectional Mobile Manipulator}},
+year = {2000}
+}
+@article{Xu2007,
+author = {D. Xu and D. Zhao and J. Yi},
+file = {:G$\backslash$:/Papers/Dynamic Model and Control for an Omnidirectional.pdf:pdf},
+journal = {Response},
+pages = {21--30},
+title = {{Dynamic Model and Control for an Omnidirectional Mobile Manipulator}},
+year = {2007}
+}
+@article{yamanaka,
+author = {E. Yamanaka and T. Murakami and K. Ohnishi},
+doi = {10.1109/IECON.2002.1182836},
+file = {:G$\backslash$:/Papers/Motion control of mobile manipulator for human interaction.pdf:pdf},
+isbn = {0-7803-7474-6},
+journal = {28th Annual Conference of the Industrial Electronics Society. IECON 02},
+pages = {2785--2790},
+year={2002},
+publisher = {IEEE},
+title = {{Motion control of mobile manipulator for human interaction}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1182836}
+}
+@InProceedings{adams,
+  author = 	 "R. J. Adams and B. Hannaford",
+  title =        "Stable Haptic Interactions With Virtual Environments",
+  booktitle = "Transactions on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "1999",
+  pages = 	 "465-474"
+}
+@InProceedings{carignan,
+  author = 	 "C. R. Carignan and K. R. Cleary",
+  title =        "Closed Loop Force Control for Haptic Simulation of Virtual Environments",
+  booktitle = "Haptics-e",
+  organization = "IEEE Robotics and Automation Society",
+  year = 	 "2000",
+  pages = 	 "1-14"
+}
+@InProceedings{pin,
+  author = 	 "F. G. Pin and J. C. Culioli",
+  title =        "Optimal Positioning of Combine Mobila Platform Manipulator Systems for Material Handling Tasks",
+  booktitle = "Journal of Intelligent and Robotic Systems",
+  year = 	 "1992",
+  pages = 	 "165-182"
+}
+@InProceedings{gao,
+  author = 	 "C. Ghao and M. Zhang and L. Sun",
+  title =        "Motion Planning and Cooordinated Control for Mobile Manipulators",
+  booktitle = "9th International Conference on Control, Automation, Robotics and Vision",
+  year = 	 "2006",
+}
+@InProceedings{goldenberg,
+  author = 	 "S. Lin and A. A. Goldenberg",
+  title =        "Neural-Network Control of Mobile Manipulators",
+  booktitle = "Transactions on Neural Networks",
+  organization = "IEEE",
+  year = 	 "2001",
+  pages = 	 "1121-1133"
+}
+@InProceedings{zalzala,
+  author = 	 "M. W. Chen and Zalzala",
+  title =        "Neural Network Based Motion Control and Applications to Non-Holonomic Mobile Manipulators",
+  booktitle = "Topics In Artificial Intelligence",
+  organization = "PRICAI",
+  year = 	 "1998",
+  pages = 	 "353-364"
+}
+@InProceedings{stress,
+  author = 	 "F. Lizarralde and J. T. Wen",
+  title =        "Quaternion-Based Coordinated Control of a Subsea Mobile Manipulatior With Only Position Measurements",
+  booktitle = "34th Conference on Decision and Control",
+  year = 	 "1995",
+}
+@InProceedings{omnibot,
+  author = 	 "S. Bemis and B. Reiss and S. Nokleby",
+  title =        "Control of a Novel Omni-Directional Platform",
+  booktitle = "Canadian Conference on Electrical and Computer Engineering",
+  organization = "IEEE",
+  year = 	 "2008",
+  pages = 	 "761-766"
+}
+@InProceedings{bemis2,
+  author = 	 "S. Bemis and B. Reiss and S. Nokleby",
+  title =        "Design and Control of an Omnibot Autonomous Vehicle",
+  booktitle = "International Design Engineering Technical Conferences",
+  organization = "ASME",
+  year = 	 "2008",
+  pages = 	 "877-884"
+}
+@InProceedings{frejek,
+  author = 	 "M. Frejek and S. B. Nokleby",
+  title =        "A Methodology for Tele-Operating Mobile Manipulators with an Emphasis on Operator Ease of Use",
+  booktitle = "Robotica, Vol. 31, No. 3",
+  year = 	 "2013",
+  pages = 	 "331-344"
+}
+@InProceedings{tanxi,
+  author = 	 "J. D. Tan and N. Xi",
+  title =        "Unified Model Approach for Planning and Control of Mobile Manipulators",
+  booktitle = "Internation Conference on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "2001",
+  pages = 	 "3145-3152"
+}
+@InProceedings{g,
+  author = 	 "H. M. Bradbury",
+  title =        "Omni- directional transport device",
+  booktitle = "U.S. Patent 4223753",
+  year = 	 "1977",
+}
+@InProceedings{e,
+  author = 	 "B. Carlisle",
+  title =        "An omni-directional mobile robot",
+  booktitle = "Developments in Robotics",
+  organization = "B. Rooks (Ed.)",
+  year = 	 "1983",
+  pages = 	 "79-87"
+}
+@InProceedings{j,
+  author = 	 "S. Hirose and S. Amano",
+  title =        "The VUTON: High payload high efficiency holonomic omni-directional vehicle",
+  booktitle = "6th International Symposium on Robotics Research",
+  year = 	 "1993",
+}
+@InProceedings{h,
+  author = 	 "B. E. Ilon",
+  title =        "Directionally stable self propelled vehicle",
+  booktitle = "U.S. Patent 3746112",
+  year = 	 "1971",
+}
+@InProceedings{k,
+  author = 	 "S. M. Killough and F. Pin",
+  title =        "Design of an omnidirectional and holonomic wheeled platform prototype",
+  booktitle = "International Conference on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "1992",
+  pages = 	 "84-90"
+}
+@InProceedings{f,
+  author = 	 "H. T. La",
+  title =        "Omnidirection Vehicle",
+  booktitle = "Patent 4237990",
+  year = 	 "1979",
+}
+@InProceedings{i,
+  author = 	 "M. West and H. Asada",
+  title =        "Design of a holonomic omnidirectional vehicle",
+  booktitle = "International Conference on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "1992",
+  pages = 	 "97-103"
+}
+@InProceedings{l,
+  author = 	 "M. West and H. Asada",
+  title =        "Design of ball wheel vehicles with full mobility, invariant kinematics and dynamics and anti-slip control",
+  booktitle = "Proceedings of the ASME Design Technical Conferences, 23rd Biennial Mechanisms Conference",
+  organization = "ASME",
+  year = 	 "1994",
+  pages = 	 "377-384"
+}
+@InProceedings{sheridan,
+  author = 	 "T. Sheridan",
+  title = "Telerobotics, automation and human supervisory control",
+  organization = "MIT Press",
+  year = 	 "1992",
+}
+@article{dir6,
+	author	=	"B. Sicilliano",
+	title	=	"Kinematic Control of Redundant Robot Manipulators: A Tutorial",
+	journal =   "Journal of Intelligent and Robotic Systems",
+	pages   =   "201-212",
+	year	=	"1990"
+}
+@article{dir7,
+	author	=	"D. E. Whitney",
+	title	=	"Resolved Motion Rate Control of Manipulators and Human Protheses",
+	journal =   "IEEE Transactions Man-Machine Systems",
+	pages   =   "47-53",
+	year	=	"1969"
+}
+@article{dir9,
+	author	=	"C. A. Klein and C. H. Huang",
+	title	=	"Review of pseudoinverse control for use with kinematically redundant manipulators",
+	journal =   "IEEE Transactions on Systems Man Cybernet.",
+	pages   =   "245-250",
+	year	=	"1983"
+}
+@article{dir10,
+	author	=	"T. Shamir and Y. Yomdin",
+	title	=	"Repeatability of redundant manipulators: Mathematical solution of the problem",
+	journal =   "IEEE Transactions on Automation and Control",
+	pages   =   "1004-1008",
+	year	=	"1983"
+}
+@article{dir12,
+	author	=	"L. Sciavicco and B. Siciliano",
+	title	=	"A solution algorithm to the inverse kinematic problem for redundant manipulators",
+	journal =   "IEEE Journal of Robotics Automation",
+	pages   =   "403-410",
+	year	=	"1988"
+}
+@article{dir13,
+	author	=	"C. Chevallereau and W. Khalil",
+	title	=	"A new method for the solution of the inverse kinematics of redundant robots",
+	journal =   "Proceedings 1988 IEEE International Conference on Robotics and Automation",
+	pages   =   "37-42",
+	year	=	"1988"
+}
+@article{dir18,
+	author	=	"L. Sciavicco and B. Siciliano",
+	title	=	"Solving the inverse kinematic problem for robotic manipulators",
+	journal =   "Proceedings of the 6th CISM-IFToMM Symposium Theory and Practice of Robots and Manipulators",
+	pages   =   "107-114",
+	year	=	"1987"
+}
+@article{dir21,
+	author	=	"Y. Nakamur, H. Hanafusa and T. Yoshikawa",
+	title	=	"Task-priority based redundancy control of robot manipulators",
+	journal =   "International Journal of Robotics Research",
+	pages   =   "3-15",
+	year	=	"1987"
+}
+@article{dir22,
+	author	=	"J. Baillieul",
+	title	=	"Avoiding obstacles and resolving kinematic redundancy",
+	journal =   "Proc. 1986 IEEE International Conference on Robotics and Automation",
+	pages   =   "1698-1704",
+	year	=	"1986"
+}
+@article{dir19,
+	author	=	"J. Baillieul",
+	title	=	"Kinematic Programming Alternatives for Redundant Manipulators",
+	journal =   "Proc. 1985 IEEE International Conference on Robotics and Automation",
+	pages   =   "722-728",
+	year	=	"1985"
+}
+@InProceedings{a,
+  author = 	 "H. Seraji",
+  title =        "Configuration Control of Redundant Manipulators: Theory and Implementation",
+  booktitle = "Transactions on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "1989",
+  pages = 	 "472-490"
+}
+@InProceedings{b,
+  author = 	 "H. Seraji",
+  title =        "Task-based Configuration Control of Redundant Robots",
+  booktitle = "Journal of Robotic Systems",
+  year = 	 "1992",
+  pages = 	 "411-451"
+}
+@InProceedings{c,
+  author = 	 "H. Seraji and R. Colbaugh",
+  title =        "Improved Configuration Control for Redundant Robots",
+  booktitle = "Journal of Robotic Systems",
+  year = 	 "1990",
+  pages = 	 "897-928"
+}
+@InProceedings{d,
+  author = 	 "H. Seraji and M. Long and T. Lee",
+  title =        "Motion Control of 7-DOF Arms: The Configuration Control Approach",
+  booktitle = "Transactions on Robotics and Aurtomation",
+  organization = "IEEE",
+  year = 	 "1993",
+  pages = 	 "125-139"
+}
+@article{w3,
+	author	=	"M. Wrock and S. Nokleby",
+	title	=	"Haptic Teleoperation of a Manipulator using Virtual Fixtures and Hybrid Position-Velocity Control",
+	journal =   "World Congress in Mechanism and Machine Science",
+  organization = "IFToMM",
+	year	=	"2011"
+}
+@InProceedings{kron,
+  author = 	 "A. Kron and G. Schmidt and G. Petzold and B. Zah and I. M. and P. Hinterseer and E. Steinbach",
+  title =        "Disposal of explosive ordinances by use of a bimanual haptic telepresence system",
+  booktitle = "International Conference on Robotics and Automation",
+  organization = "IEEE",
+  year = 	 "2004",
+	month   =   "April",
+}
+@InProceedings{coxd,
+  author = 	 "Cox and J. D.",
+  title =        "Mock-up of hazardous material handling tasks using a dual-arm robotic system",
+  booktitle = "World Automation Congress",
+  year = 	 "2002",
+	month   =   "June",
+}
+@InProceedings{gui1,
+  author = 	 "B. Bouzouia and A. Rahiche",
+  title =        "Teleoperation system of the mobile Manipulator Robot ROBUTERULM: Implementation issues",
+  booktitle = "International Symposium on  Information, Communication and Automation Technologies",
+  organization = "IEEE",
+  year = 	 "2009",
+	month   =   "October",
+	pages= "1-7",
+}
+@InProceedings{volpe,
+  author = 	 "R. Volpe and T. Ohm and R. Petras and R. Welch and J. Balaram and R. Ivlev",
+  title =        "A prototype manipulation system for mars rover science operations",
+  booktitle = "International Conference on Intelligent Robots and Systems",
+  organization = "IROS",
+  year = 	 "1997",
+ 	volume  =	"{\bf 3}",
+	pages     = "1486-1492",
+}
+@InProceedings{melch,
+  author = 	 "C. Melchiorri",
+  title =        "Robotic Telemanipulation: An Introduction",
+  booktitle = "Winter School on Telesurgery",
+  organization = "EURON",
+  year = 	 "2006",
+}
+@InProceedings{gui2,
+  author = 	 "L. Dai and Z. Li",
+  title =        "Design and Implementation of Motion Control for Teleoperated Mobile Msnipulators",
+  booktitle = "8th World Congress on Intelligent Control and Automation",
+  month = "July",
+  year = 	 "2010",
+	pages     = "6691-6696",
+}
+@InProceedings{gui3,
+  author = 	 "D. Wang and J. Yi and D. Zhao and G. Yang",
+  title =        "Teleoperation system of the internet-based omnidirectional mobile robot with a mounted manipulator",
+  booktitle = "International Conference on Mechatronics and Automation",
+  month = "August",
+  organization = "IEEE",
+  year = 	 "2007",
+	pages     = "1799-1804",
+}
+@InProceedings{yasuaki,
+  author = 	 "Y. Ise and T. Murakami",
+  title =        "An approach to a haptics system control by mobile manipulator",
+  booktitle = "International Workshop on Advanced Motion Control",
+  month = "May",
+  organization = "IEEE",
+  year = 	 "2004",
+	pages     = "239-242",
+}
+@article{nath,
+author = {N. Nath and E. Tatlicioglu and D. M. Dawson},
+journal = {Robotica},
+keywords = {control of robotic systems,lyapunov-based control,redundant manipulators,sub-,teleoperation},
+month = "March",
+number = {07},
+pages = {1027-1038},
+title = {{Teleoperation with kinematically redundant robot manipulators with sub-task objectives}},
+volume = {27},
+year = {2009}
+}
+
+@article{soylu,
+author = {S. Soylu and F. Firmani and B. Buckham and R. P. Podhorodeski},
+journal = {Conference Piublishing},
+pages = {1-8},
+organization = "IEEE",
+title = "Comprehensive Underwater Vehicle-Manipulator System Teleoperation",
+year = {2010}
+}
+
+@article{nokleby,
+author = {S. B. Nokleby and R. Podhorodeski},
+journal = {Industrial Robotics Theory Modelling Control},
+month = "December",
+title = {{A Complete Family of Kinematically-Simple Joint Layouts: Layout Models, Associated Displacement Problem Solutions and Applications}},
+year = {2006}
+}
+@article{w4,
+	author	=	"M. Wrock and S. Nokleby",
+	title	=	"Virtual Fixtures and Automatic Mode Switching for Teleoperation Tasks",
+	journal =   "ASME 2012 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference",
+  organization = "ASME",
+  pages = {745--751},
+	year	 = {2012}
+}
+
+@InProceedings{farkhat,
+  author = 	 "I. Farkhatdinov and J-H. Ryu and J. Poduraev",
+  title =        "Control Strategies and Feedback Information in Mobile Robot Teleoperation",
+  booktitle = "Proceedings of the 17th World Congress",
+  organization = "The international Federation of Automatic Control",
+  year = 	 "2008",
+  pages = 	 "14681-14686"
+}
+@InProceedings{diy2,
+  author = 	 "M. Hvilshj and S. Bgh",
+  title =        "Little helper - an autonomous industrial mobile manipulator concept",
+  booktitle = "International Journal of Advanced Robotic Systems",
+  year = 	 "2011",
+}
+@InProceedings{diy,
+  author = 	 "C. K. Chui and J. S. K. Ong and Z. Y. Lian and Z. Wang and J. Teo",
+  title =        "DHaptics in Computer Mediated Simulation: Training in Vertebroplasty Surgery",
+  booktitle = "Simulation and Gaming",
+  year = 	 "2006",
+  pages = 	 "438-451"
+}
+@InProceedings{diy3,
+  author = 	 "C. Gunn and A. Mettenmeyer",
+  title =        "Virtual Surgery Across the World",
+  booktitle = "CSIRO Media Release",
+  year = 	 "2002",
+}
+@INPROCEEDINGS{w1, 
+author={Wrock, M.R. and Nokleby, S.B.}, 
+booktitle={Electrical and Computer Engineering (CCECE), 2011 24th Canadian Conference on}, 
+title={Decoupled teleoperation of a holonomic mobile-manipulator system using automatic switching}, 
+year={2011}, 
+month={May}, 
+pages={001164-001168}, 
+keywords={control engineering computing;interactive devices;mobile robots;redundant manipulators;telerobotics;3-DOF manipulator;Omnibot MMS;automatic switching;command strategy;decoupled teleoperation;holonomic mobile-manipulator system;joystick;Accuracy;Haptic interfaces;Jacobian matrices;Manipulators;Mobile communication;Switches;Wheels;Mobile-Manipulator;automatic switching;holonomic;omni-directional;teleoperation}, 
+doi={10.1109/CCECE.2011.6030645}, 
+ISSN={0840-7789},}
+@InProceedings{w2,
+author = {Michael R. Wrock and Scott B. Nokleby},
+title = {Command Strategies for Tele-Operation of Mobile-Manipulator Systems via a Haptic Input Device},
+booktitle = {ASME 2011 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+OPTcrossref = {•},
+OPTkey = {•},
+pages = {623--630},
+year = {2011},
+OPTeditor = {•},
+OPTvolume = {3},
+OPTnumber = {•},
+OPTseries = {•},
+OPTaddress = {•},
+OPTmonth = {•},
+organization = {ASME/IEEE},
+OPTpublisher = {•},
+OPTnote = {•},
+OPTannote = {•}
+}
